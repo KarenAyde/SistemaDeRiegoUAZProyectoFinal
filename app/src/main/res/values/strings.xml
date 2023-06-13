@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SistemaDeRiegoUAZ</string>
+    <string name="btnRegar">Iniciar Riego</string>
+    <string name="btnPararRiego">Detener Riego</string>
+    <string name="txtHora">Hora de inicio de riego</string>
+    <string name="btnHora">Establecer Hora</string>
+    <string name="btnFecha">Establecer Fecha</string>
+    <string name="txtFecha">Selecciona la fecha</string>
+    <string name="txtEstabldecerHora">Selecciona la hora</string>
+    <string name="btnGuardar">Guardar</string>
+</resources>
